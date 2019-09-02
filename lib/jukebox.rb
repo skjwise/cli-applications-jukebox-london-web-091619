@@ -51,7 +51,6 @@ when "help"
     when "list"
       list(songs)
       when "exit"
-        puts "Please enter a command:/"
         exit_jukebox
         exit
       end
