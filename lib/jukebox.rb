@@ -51,6 +51,7 @@ when "help"
     when "list"
       list(songs)
       when "exit"
+        puts "I accept the following commands:/"
         exit_jukebox
         exit
       end
