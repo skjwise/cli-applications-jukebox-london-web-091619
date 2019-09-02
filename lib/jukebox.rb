@@ -52,7 +52,6 @@ when "help"
       list(songs)
       when "exit"
         exit_jukebox
-        puts "I accept the following commands:/"
         exit
       end
       run(songs)
